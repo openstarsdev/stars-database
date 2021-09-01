@@ -36,7 +36,7 @@ data_sorted['radius'] = (sun_temperature/data_sorted['temperature'])**2 * (2.51*
 data_sorted['name'] =  np.where(data_sorted['proper'].isnull(), 'HIP' + data_sorted['hip'], 'HIP' + data_sorted['hip'] + ' - ' + data_sorted['proper'])
 data_sorted['description'] =  data_sorted['name'] + " belongs to the " + data_sorted['con'] + " constellation. \n For more information, visit http://cdsportal.u-strasbg.fr/?target=HIP" + data_sorted['hip']
 data_sorted['image'] =  "https://raw.githubusercontent.com/openstars-org/stars-database/main/images/hip" + data_sorted['hip'] + ".png"
-data_sorted['external_url'] = "https://explorer.openstars.org/#render/hip-" + data_sorted['hip']
+data_sorted['external_url'] = "https://explorer.openstars.org/#view/hip-" + data_sorted['hip']
 
 
 
