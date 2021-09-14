@@ -46,31 +46,23 @@ data_sorted['image'] =  "https://raw.githubusercontent.com/openstars-org/stars-d
 data_sorted['external_url'] = "https://explorer.openstars.org/#view/hip-" + data_sorted['hip']
 
 
-spectral_type_to_price = {
-  "O": 1000,
-  "B": 500,
-  "A": 300,
-  "F": 200,
-  "G": 100,
-  "K": 50,
-  "M": 0,
-  "D": 100
-}
+def round_to(n, precision):
+    correction = 0.5 if n >= 0 else -0.5
+    return int( n/precision+correction ) * precision
 
-def custom_round(x, base=100):
-    return int(base * round(float(x)/base))
+def round_to_05(n):
+    return round_to(n, 0.005)
 
 
 
-data_sorted['premium'] =  np.where(data_sorted['proper'].isnull(), 0, 300)
+data_sorted['premium'] = np.where(data_sorted['proper'].isnull(), 0, 150)
 max_absmag = 20
 max_dist = 100
 absmag_multiplier = 10
 dist_multiplier = 2
 data_sorted['price'] = ( absmag_multiplier * (max_absmag - data_sorted['absmag']) + dist_multiplier * (max_dist - data_sorted['dist'])) + data_sorted['premium']
 data_sorted['price']= data_sorted['price']/3000
-#data_sorted['price']= data_sorted['price'].apply(lambda x: custom_round(x, base=0.01))
-data_sorted['price']= round(data_sorted['price'],2)
+data_sorted['price'] = data_sorted['price'].apply(round_to_05)
 
 
 # attributes_column = []

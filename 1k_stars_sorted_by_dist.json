@@ -45,7 +45,7 @@
     "description":"Our main star.",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip0.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-0",
-    "premium":300,
+    "premium":150,
     "price":50.0
   },
   {
@@ -94,8 +94,8 @@
     "description":"HIP70890 - Proxima Centauri belongs to the Cen constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-70890",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip70890.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-70890",
-    "premium":300,
-    "price":0.18
+    "premium":150,
+    "price":0.13
   },
   {
     "id":71456,
@@ -143,8 +143,8 @@
     "description":"HIP71683 - Rigil Kentaurus belongs to the Cen constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-71683",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip71683.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-71683",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":71453,
@@ -193,7 +193,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip71681.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-71681",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":87665,
@@ -241,8 +241,8 @@
     "description":"HIP87937 - Barnard's Star belongs to the Oph constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-87937",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip87937.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-87937",
-    "premium":300,
-    "price":0.19
+    "premium":150,
+    "price":0.14
   },
   {
     "id":53879,
@@ -290,8 +290,8 @@
     "description":"HIP54035 - Lalande 21185 belongs to the UMa constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-54035",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip54035.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-54035",
-    "premium":300,
-    "price":0.2
+    "premium":150,
+    "price":0.145
   },
   {
     "id":32263,
@@ -339,8 +339,8 @@
     "description":"HIP32349 - Sirius belongs to the CMa constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-32349",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip32349.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-32349",
-    "premium":300,
-    "price":0.23
+    "premium":150,
+    "price":0.175
   },
   {
     "id":92115,
@@ -486,8 +486,8 @@
     "description":"HIP114046 - Lacaille 9352 belongs to the PsA constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-114046",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip114046.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-114046",
-    "premium":300,
-    "price":0.2
+    "premium":150,
+    "price":0.15
   },
   {
     "id":57375,
@@ -536,7 +536,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip57548.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-57548",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":91487,
@@ -634,7 +634,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip104214.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-104214",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":103883,
@@ -683,7 +683,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip104217.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-104217",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":37173,
@@ -731,8 +731,8 @@
     "description":"HIP37279 - Procyon belongs to the CMi constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-37279",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip37279.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-37279",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":91484,
@@ -781,7 +781,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip91768.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-91768",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":1472,
@@ -830,7 +830,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip1475.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-1475",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":108526,
@@ -977,7 +977,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip5643.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-5643",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":82472,
@@ -1026,7 +1026,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip82724.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-82724",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":36107,
@@ -1074,8 +1074,8 @@
     "description":"HIP36208 - Luyten's Star belongs to the CMi constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-36208",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip36208.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-36208",
-    "premium":300,
-    "price":0.19
+    "premium":150,
+    "price":0.14
   },
   {
     "id":24129,
@@ -1123,8 +1123,8 @@
     "description":"HIP24186 - Kapteyn's Star belongs to the Pic constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-24186",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip24186.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-24186",
-    "premium":300,
-    "price":0.19
+    "premium":150,
+    "price":0.145
   },
   {
     "id":104751,
@@ -1172,8 +1172,8 @@
     "description":"HIP105090 - Lacaille 8760 belongs to the Mic constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-105090",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip105090.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-105090",
-    "premium":300,
-    "price":0.2
+    "premium":150,
+    "price":0.15
   },
   {
     "id":110547,
@@ -1221,8 +1221,8 @@
     "description":"HIP110893 - Kruger 60 belongs to the Cep constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-110893",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip110893.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-110893",
-    "premium":300,
-    "price":0.19
+    "premium":150,
+    "price":0.14
   },
   {
     "id":72284,
@@ -1271,7 +1271,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip72511.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-72511",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":30847,
@@ -1320,7 +1320,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip30920.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-30920",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":3820,
@@ -1368,8 +1368,8 @@
     "description":null,
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip3829.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-3829",
-    "premium":300,
-    "price":0.18
+    "premium":150,
+    "price":0.135
   },
   {
     "id":80579,
@@ -1467,7 +1467,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip439.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-439",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":85899,
@@ -1516,7 +1516,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip86162.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-86162",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":85264,
@@ -1565,7 +1565,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip85523.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-85523",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":57194,
@@ -1614,7 +1614,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip57367.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-57367",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":63518,
@@ -1663,7 +1663,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip63721.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-63721",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":72283,
@@ -1712,7 +1712,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip72509.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-72509",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":112660,
@@ -1810,7 +1810,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip54211.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-54211",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":49767,
@@ -1859,7 +1859,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip49908.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-49908",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":106098,
@@ -1908,7 +1908,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip106440.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-106440",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":19799,
@@ -2006,7 +2006,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip1242.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-1242",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":85951,
@@ -2201,8 +2201,8 @@
     "description":"HIP97649 - Altair belongs to the Aql constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-97649",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip97649.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-97649",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.175
   },
   {
     "id":57371,
@@ -2300,7 +2300,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip67155.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-67155",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":58735,
@@ -2447,7 +2447,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip83609.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-83609",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":25813,
@@ -2692,7 +2692,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip26857.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-26857",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":86722,
@@ -2790,7 +2790,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip73184.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-73184",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":94466,
@@ -2839,7 +2839,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip94761.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-94761",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":72955,
@@ -2937,7 +2937,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip76074.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-76074",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":84147,
@@ -3035,7 +3035,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip3821.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-3821",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":37659,
@@ -3133,7 +3133,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip84478.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-84478",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":83882,
@@ -3182,7 +3182,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip84140.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-84140",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":117106,
@@ -3231,7 +3231,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip117473.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-117473",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":99143,
@@ -3328,8 +3328,8 @@
     "description":"HIP15510 - 82 G. Eri belongs to the Eri constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-15510",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip15510.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-15510",
-    "premium":300,
-    "price":0.21
+    "premium":150,
+    "price":0.16
   },
   {
     "id":71027,
@@ -3427,7 +3427,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip99240.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-99240",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":115766,
@@ -3525,7 +3525,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip82817.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-82817",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":99382,
@@ -3672,7 +3672,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip34603.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-34603",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":45214,
@@ -3819,7 +3819,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip114622.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-114622",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":53612,
@@ -3868,7 +3868,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip53767.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-53767",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":105765,
@@ -4015,7 +4015,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip82809.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-82809",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":52866,
@@ -4064,7 +4064,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip53020.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-53020",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":84451,
@@ -4113,7 +4113,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip84709.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-84709",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":112936,
@@ -4162,7 +4162,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip113296.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-113296",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":102765,
@@ -4260,7 +4260,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip51317.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-51317",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":12082,
@@ -4308,8 +4308,8 @@
     "description":"HIP12114 - 268 G. Cet belongs to the Cet constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-12114",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip12114.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-12114",
-    "premium":300,
-    "price":0.21
+    "premium":150,
+    "price":0.155
   },
   {
     "id":83688,
@@ -4358,7 +4358,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip83945.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-83945",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":3759,
@@ -4406,8 +4406,8 @@
     "description":"HIP3765 - 96 G. Psc belongs to the Psc constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-3765",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip3765.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-3765",
-    "premium":300,
-    "price":0.21
+    "premium":150,
+    "price":0.155
   },
   {
     "id":2016,
@@ -4456,7 +4456,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip2021.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-2021",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":12748,
@@ -4701,7 +4701,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip113283.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-113283",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":65653,
@@ -4750,7 +4750,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip65859.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-65859",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":90979,
@@ -4798,8 +4798,8 @@
     "description":"HIP91262 - Vega belongs to the Lyr constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-91262",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip91262.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-91262",
-    "premium":300,
-    "price":0.23
+    "premium":150,
+    "price":0.175
   },
   {
     "id":85036,
@@ -4896,8 +4896,8 @@
     "description":"HIP113368 - Fomalhaut belongs to the PsA constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-113368",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip113368.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-113368",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":88300,
@@ -4946,7 +4946,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip88574.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-88574",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":61681,
@@ -4995,7 +4995,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip61874.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-61874",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":7736,
@@ -5044,7 +5044,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip7751.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-7751",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":49845,
@@ -5093,7 +5093,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip49986.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-49986",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":100854,
@@ -5289,7 +5289,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip89937.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-89937",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":22396,
@@ -5338,7 +5338,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip22449.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-22449",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":86022,
@@ -5387,7 +5387,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip86287.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-86287",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":118084,
@@ -5435,8 +5435,8 @@
     "description":"HIP7751 - p Eridani belongs to the Eri constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-7751",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip7751.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-7751",
-    "premium":300,
-    "price":0.21
+    "premium":150,
+    "price":0.155
   },
   {
     "id":5485,
@@ -5485,7 +5485,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip5496.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-5496",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":113216,
@@ -5583,7 +5583,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip4856.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-4856",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":105913,
@@ -5632,7 +5632,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip106255.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-106255",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":86705,
@@ -5681,7 +5681,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip86974.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-86974",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":79777,
@@ -6024,7 +6024,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip57802.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-57802",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":1595,
@@ -6171,7 +6171,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip38956.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-38956",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":27844,
@@ -6269,7 +6269,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip111802.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-111802",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":23256,
@@ -6318,7 +6318,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip23311.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-23311",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":32897,
@@ -6367,7 +6367,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip32984.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-32984",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":93604,
@@ -6514,7 +6514,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip25578.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-25578",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":60373,
@@ -6612,7 +6612,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip56528.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-56528",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":99507,
@@ -6661,7 +6661,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip99825.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-99825",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":55195,
@@ -6710,7 +6710,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip55360.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-55360",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":27006,
@@ -6759,7 +6759,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip27072.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-27072",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":46970,
@@ -6857,7 +6857,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip17378.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-17378",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":57767,
@@ -6905,8 +6905,8 @@
     "description":"HIP57939 - Groombridge 1830 belongs to the UMa constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-57939",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip57939.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-57939",
-    "premium":300,
-    "price":0.21
+    "premium":150,
+    "price":0.155
   },
   {
     "id":109042,
@@ -7102,7 +7102,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip9724.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-9724",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":23457,
@@ -7249,7 +7249,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip105858.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-105858",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":23877,
@@ -7347,7 +7347,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip21932.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-21932",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":9764,
@@ -7396,7 +7396,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip9786.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-9786",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":66694,
@@ -7445,7 +7445,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip66906.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-66906",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":29204,
@@ -7543,7 +7543,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip27604.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-27604",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":47291,
@@ -7690,7 +7690,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip56452.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-56452",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":56828,
@@ -7788,7 +7788,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip72944.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-72944",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":46522,
@@ -7935,7 +7935,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip86057.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-86057",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":31555,
@@ -7984,7 +7984,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip31635.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-31635",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":81054,
@@ -8033,7 +8033,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip81300.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-81300",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":81753,
@@ -8131,7 +8131,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip47780.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-47780",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":102078,
@@ -8180,7 +8180,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip102409.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-102409",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":4862,
@@ -8229,7 +8229,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip4872.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-4872",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":85406,
@@ -8278,7 +8278,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip85665.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-85665",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":117460,
@@ -8327,7 +8327,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip117828.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-117828",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":46576,
@@ -8376,7 +8376,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip46706.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-46706",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":68250,
@@ -8425,7 +8425,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip68469.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-68469",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":67966,
@@ -8474,7 +8474,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip68184.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-68184",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":2547,
@@ -8719,7 +8719,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip58345.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-58345",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":83865,
@@ -9013,7 +9013,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip67164.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-67164",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":108437,
@@ -9062,7 +9062,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip108782.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-108782",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":82788,
@@ -9111,7 +9111,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip83043.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-83043",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":13368,
@@ -9160,7 +9160,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip13402.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-13402",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":56077,
@@ -9257,8 +9257,8 @@
     "description":"HIP37826 - Pollux belongs to the Gem constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-37826",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip37826.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-37826",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.175
   },
   {
     "id":10255,
@@ -9307,7 +9307,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip10279.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-10279",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":118742,
@@ -9405,7 +9405,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip76901.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-76901",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":45776,
@@ -9454,7 +9454,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip45908.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-45908",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":33056,
@@ -9552,7 +9552,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip14632.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-14632",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":48575,
@@ -9601,7 +9601,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip48714.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-48714",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":62491,
@@ -9699,7 +9699,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip83599.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-83599",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":37111,
@@ -9797,7 +9797,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip82257.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-82257",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":20948,
@@ -9846,7 +9846,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip21000.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-21000",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":79513,
@@ -10091,7 +10091,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip81693.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-81693",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":71672,
@@ -10287,7 +10287,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip10138.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-10138",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":10620,
@@ -10385,7 +10385,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip70975.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-70975",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":117345,
@@ -10434,7 +10434,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip117712.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-117712",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":92808,
@@ -10483,7 +10483,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip93101.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-93101",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":29243,
@@ -10581,7 +10581,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip57757.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-57757",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":66250,
@@ -10630,7 +10630,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip66459.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-66459",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":94776,
@@ -10679,7 +10679,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip95071.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-95071",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":114968,
@@ -10776,8 +10776,8 @@
     "description":"HIP57632 - Denebola belongs to the Leo constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-57632",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip57632.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-57632",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":86134,
@@ -10826,7 +10826,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip86400.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-86400",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":8750,
@@ -10875,7 +10875,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip8768.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-8768",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":88694,
@@ -10924,7 +10924,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip88972.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-88972",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":3087,
@@ -10973,7 +10973,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip3093.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-3093",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":41706,
@@ -11022,7 +11022,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip41824.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-41824",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":64592,
@@ -11071,7 +11071,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip64797.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-64797",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":21503,
@@ -11169,7 +11169,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip57050.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-57050",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":22686,
@@ -11267,7 +11267,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip12777.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-12777",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":42688,
@@ -11316,7 +11316,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip42808.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-42808",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":48194,
@@ -11414,7 +11414,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip26335.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-26335",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":428,
@@ -11463,7 +11463,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip428.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-428",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":77836,
@@ -11512,7 +11512,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip78072.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-78072",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":69451,
@@ -11560,8 +11560,8 @@
     "description":"HIP69673 - Arcturus belongs to the Boo constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-69673",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip69673.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-69673",
-    "premium":300,
-    "price":0.23
+    "premium":150,
+    "price":0.175
   },
   {
     "id":47378,
@@ -11854,8 +11854,8 @@
     "description":"HIP67927 - Mufrid belongs to the Boo constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-67927",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip67927.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-67927",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":74958,
@@ -12002,7 +12002,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip116745.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-116745",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":91416,
@@ -12149,7 +12149,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip72848.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-72848",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":84536,
@@ -12247,7 +12247,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip11964.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-11964",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":109209,
@@ -12296,7 +12296,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip109555.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-109555",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":13356,
@@ -12443,7 +12443,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip23708.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-23708",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":69232,
@@ -12492,7 +12492,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip69454.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-69454",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":61748,
@@ -12540,8 +12540,8 @@
     "description":"HIP61941 - Porrima belongs to the Vir constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-61941",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip61941.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-61941",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":63307,
@@ -12590,7 +12590,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip63510.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-63510",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":108830,
@@ -12639,7 +12639,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip109176.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-109176",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":53829,
@@ -12688,7 +12688,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip53985.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-53985",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":92580,
@@ -12737,7 +12737,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip92871.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-92871",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":73243,
@@ -12786,7 +12786,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip73470.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-73470",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":69749,
@@ -12835,7 +12835,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip69972.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-69972",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":107213,
@@ -12884,7 +12884,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip107556.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-107556",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":36524,
@@ -13031,7 +13031,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip11048.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-11048",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":36522,
@@ -13080,7 +13080,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip36627.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-36627",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":108224,
@@ -13129,7 +13129,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip108569.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-108569",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":50494,
@@ -13472,7 +13472,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip102186.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-102186",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":104095,
@@ -13570,7 +13570,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip171.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-171",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":41807,
@@ -13619,7 +13619,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip41926.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-41926",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":9272,
@@ -13668,7 +13668,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip9291.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-9291",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":26714,
@@ -13717,7 +13717,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip26779.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-26779",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":92776,
@@ -13766,7 +13766,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip93069.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-93069",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":22574,
@@ -13815,7 +13815,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip22627.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-22627",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":47485,
@@ -14060,7 +14060,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip43587.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-43587",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":50862,
@@ -14109,7 +14109,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip51007.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-51007",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":77716,
@@ -14158,7 +14158,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip77952.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-77952",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":84532,
@@ -14305,7 +14305,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip26801.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-26801",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":16095,
@@ -14403,7 +14403,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip40693.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-40693",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":73467,
@@ -14501,7 +14501,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip112325.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-112325",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":24753,
@@ -14599,7 +14599,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip10798.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-10798",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":54878,
@@ -14746,7 +14746,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip103910.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-103910",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":7903,
@@ -15138,7 +15138,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip85235.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-85235",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":98385,
@@ -15285,7 +15285,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip46580.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-46580",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":13185,
@@ -15383,7 +15383,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip115562.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-115562",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":27818,
@@ -15432,7 +15432,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip27887.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-27887",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":66415,
@@ -15628,7 +15628,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip91438.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-91438",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":88934,
@@ -15725,8 +15725,8 @@
     "description":"HIP24608 - Capella belongs to the Aur constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-24608",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip24608.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-24608",
-    "premium":300,
-    "price":0.23
+    "premium":150,
+    "price":0.175
   },
   {
     "id":86695,
@@ -15922,7 +15922,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip60910.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-60910",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":21764,
@@ -16069,7 +16069,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip90790.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-90790",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":64806,
@@ -16118,7 +16118,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip65011.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-65011",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":22210,
@@ -16216,7 +16216,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip31862.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-31862",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":76597,
@@ -16265,7 +16265,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip76832.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-76832",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":83505,
@@ -16363,7 +16363,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip67422.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-67422",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":19289,
@@ -16412,7 +16412,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip19337.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-19337",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":46720,
@@ -16461,7 +16461,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip46853.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-46853",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":7499,
@@ -16510,7 +16510,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip7513.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-7513",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":110097,
@@ -16559,7 +16559,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip110443.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-110443",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":28298,
@@ -16853,7 +16853,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip97292.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-97292",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":23463,
@@ -16902,7 +16902,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip23518.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-23518",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":83731,
@@ -17049,7 +17049,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip61094.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-61094",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":543,
@@ -17098,7 +17098,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip544.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-544",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":97725,
@@ -17146,8 +17146,8 @@
     "description":"HIP98036 - Alshain belongs to the Aql constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-98036",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip98036.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-98036",
-    "premium":300,
-    "price":0.21
+    "premium":150,
+    "price":0.165
   },
   {
     "id":116405,
@@ -17196,7 +17196,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip116771.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-116771",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":48199,
@@ -17245,7 +17245,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip48336.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-48336",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":55525,
@@ -17343,7 +17343,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip27188.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-27188",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":42101,
@@ -17392,7 +17392,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip42220.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-42220",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":103109,
@@ -17441,7 +17441,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip103441.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-103441",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":109763,
@@ -17784,7 +17784,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip52600.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-52600",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":17378,
@@ -17833,7 +17833,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip17420.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-17420",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":16811,
@@ -18029,7 +18029,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip47741.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-47741",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":15599,
@@ -18127,7 +18127,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip97944.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-97944",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":53565,
@@ -18274,7 +18274,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip87938.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-87938",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":92913,
@@ -18372,7 +18372,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip86087.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-86087",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":116361,
@@ -18421,7 +18421,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip116727.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-116727",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":112415,
@@ -18470,7 +18470,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip112774.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-112774",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":4139,
@@ -18519,7 +18519,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip4148.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-4148",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":61708,
@@ -18666,7 +18666,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip67691.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-67691",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":37243,
@@ -18813,7 +18813,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip14879.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-14879",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":54804,
@@ -18862,7 +18862,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip54966.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-54966",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":81685,
@@ -18960,7 +18960,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip102422.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-102422",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":91913,
@@ -19009,7 +19009,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip92200.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-92200",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":70252,
@@ -19058,7 +19058,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip70475.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-70475",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":67274,
@@ -19401,7 +19401,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip101997.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-101997",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":25215,
@@ -19548,7 +19548,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip96285.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-96285",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":73962,
@@ -19744,7 +19744,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip14445.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-14445",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":44000,
@@ -19793,7 +19793,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip44127.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-44127",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":78536,
@@ -19842,7 +19842,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip78775.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-78775",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":70274,
@@ -19891,7 +19891,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip70497.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-70497",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":112549,
@@ -19940,7 +19940,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip112909.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-112909",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":44594,
@@ -19989,7 +19989,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip44722.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-44722",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":37182,
@@ -20038,7 +20038,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip37288.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-37288",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":42406,
@@ -20087,7 +20087,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip42525.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-42525",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":35200,
@@ -20136,7 +20136,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip35296.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-35296",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":13341,
@@ -20185,7 +20185,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip13375.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-13375",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":28864,
@@ -20234,7 +20234,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip28936.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-28936",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":106354,
@@ -20283,7 +20283,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip106696.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-106696",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":107815,
@@ -20332,7 +20332,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip108159.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-108159",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":86693,
@@ -20479,7 +20479,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip33817.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-33817",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":76816,
@@ -20528,7 +20528,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip77052.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-77052",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":78950,
@@ -20577,7 +20577,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip79190.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-79190",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":102154,
@@ -20626,7 +20626,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip102485.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-102485",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":30557,
@@ -20675,7 +20675,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip30630.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-30630",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":77934,
@@ -20773,7 +20773,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip17609.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-17609",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":37974,
@@ -20871,7 +20871,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip66675.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-66675",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":104307,
@@ -20920,7 +20920,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip104644.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-104644",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":74952,
@@ -20969,7 +20969,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip75181.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-75181",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":100597,
@@ -21116,7 +21116,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip28103.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-28103",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":61952,
@@ -21165,7 +21165,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip62145.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-62145",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":85769,
@@ -21213,8 +21213,8 @@
     "description":"HIP86032 - Rasalhague belongs to the Oph constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-86032",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip86032.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-86032",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":98834,
@@ -21263,7 +21263,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip99150.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-99150",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":84263,
@@ -21361,7 +21361,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip34115.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-34115",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":5236,
@@ -21410,7 +21410,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip5247.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-5247",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":42644,
@@ -21459,7 +21459,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip42762.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-42762",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":59020,
@@ -21508,7 +21508,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip59199.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-59199",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":109292,
@@ -21557,7 +21557,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip109638.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-109638",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":113999,
@@ -21655,7 +21655,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip19394.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-19394",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":1365,
@@ -21704,7 +21704,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip1368.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-1368",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":47457,
@@ -21850,8 +21850,8 @@
     "description":"HIP105199 - Alderamin belongs to the Cep constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-105199",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip105199.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-105199",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":48941,
@@ -21998,7 +21998,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip49189.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-49189",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":77113,
@@ -22194,7 +22194,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip3583.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-3583",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":25583,
@@ -22243,7 +22243,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip25647.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-25647",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":27367,
@@ -22292,7 +22292,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip27435.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-27435",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":95152,
@@ -22390,7 +22390,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip1392.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-1392",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":37745,
@@ -22537,7 +22537,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip28954.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-28954",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":103322,
@@ -22684,7 +22684,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip169.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-169",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":77121,
@@ -22733,7 +22733,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip77358.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-77358",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":31554,
@@ -22782,7 +22782,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip31634.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-31634",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":15880,
@@ -22929,7 +22929,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip42748.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-42748",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":23780,
@@ -23076,7 +23076,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip65352.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-65352",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":48764,
@@ -23223,7 +23223,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip8709.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-8709",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":86529,
@@ -23370,7 +23370,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip59514.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-59514",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":95207,
@@ -23419,7 +23419,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip95501.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-95501",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":18465,
@@ -23566,7 +23566,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip91128.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-91128",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":76543,
@@ -23615,7 +23615,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip76779.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-76779",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":18235,
@@ -23664,7 +23664,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip18280.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-18280",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":36744,
@@ -23712,8 +23712,8 @@
     "description":"HIP36850 - Castor belongs to the Gem constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-36850",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip36850.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-36850",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":112997,
@@ -23811,7 +23811,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip65012.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-65012",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":99068,
@@ -23860,7 +23860,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip99385.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-99385",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":67063,
@@ -23958,7 +23958,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip4022.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-4022",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":88469,
@@ -24056,7 +24056,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip66765.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-66765",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":36246,
@@ -24105,7 +24105,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip36349.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-36349",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":79851,
@@ -24154,7 +24154,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip80093.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-80093",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":116714,
@@ -24203,7 +24203,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip117081.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-117081",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":51377,
@@ -24252,7 +24252,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip51525.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-51525",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":32473,
@@ -24301,7 +24301,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip32560.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-32560",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":3899,
@@ -24448,7 +24448,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip95319.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-95319",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":98478,
@@ -24595,7 +24595,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip56662.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-56662",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":3580,
@@ -24693,7 +24693,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip98906.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-98906",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":71058,
@@ -24791,7 +24791,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip74702.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-74702",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":60118,
@@ -24840,7 +24840,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip60303.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-60303",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":113872,
@@ -24938,7 +24938,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip98767.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-98767",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":63630,
@@ -24987,7 +24987,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip63833.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-63833",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":82005,
@@ -25281,7 +25281,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip44295.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-44295",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":54801,
@@ -25330,7 +25330,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip54963.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-54963",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":107306,
@@ -25428,7 +25428,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip12929.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-12929",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":34016,
@@ -25526,7 +25526,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip17439.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-17439",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":48340,
@@ -25673,7 +25673,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip70536.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-70536",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":110649,
@@ -25771,7 +25771,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip44248.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-44248",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":81848,
@@ -25820,7 +25820,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip82099.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-82099",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":94444,
@@ -25869,7 +25869,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip94739.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-94739",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":65150,
@@ -26212,7 +26212,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip38908.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-38908",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":47845,
@@ -26310,7 +26310,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip105341.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-105341",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":50809,
@@ -26359,7 +26359,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip50954.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-50954",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":4918,
@@ -26457,7 +26457,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip46488.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-46488",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":18727,
@@ -26653,7 +26653,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip1295.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-1295",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":23093,
@@ -26702,7 +26702,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip23147.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-23147",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":107362,
@@ -26751,7 +26751,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip107705.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-107705",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":52146,
@@ -26800,7 +26800,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip52296.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-52296",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":1459,
@@ -27143,7 +27143,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip70529.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-70529",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":104700,
@@ -27437,7 +27437,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip85647.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-85647",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":31223,
@@ -27486,7 +27486,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip31300.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-31300",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":2114,
@@ -27584,7 +27584,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip39987.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-39987",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":71169,
@@ -27731,7 +27731,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip34065.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-34065",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":15328,
@@ -27829,7 +27829,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip43534.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-43534",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":5799,
@@ -27927,7 +27927,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip8691.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-8691",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":71682,
@@ -27976,7 +27976,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip71908.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-71908",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":117016,
@@ -28025,7 +28025,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip117383.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-117383",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":32683,
@@ -28074,7 +28074,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip32769.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-32769",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":39713,
@@ -28123,7 +28123,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip39826.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-39826",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":17363,
@@ -28270,7 +28270,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip523.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-523",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":32394,
@@ -28417,7 +28417,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip29568.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-29568",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":65315,
@@ -28515,7 +28515,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip62471.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-62471",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":39046,
@@ -28564,7 +28564,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip39157.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-39157",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":80772,
@@ -28613,7 +28613,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip81018.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-81018",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":744,
@@ -28661,8 +28661,8 @@
     "description":"HIP746 - Caph belongs to the Cas constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-746",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip746.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-746",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":16030,
@@ -28809,7 +28809,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip118200.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-118200",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":12319,
@@ -28858,7 +28858,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip12351.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-12351",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":17701,
@@ -29005,7 +29005,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip35136.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-35136",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":54498,
@@ -29103,7 +29103,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip14731.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-14731",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":68843,
@@ -29201,7 +29201,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip99427.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-99427",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":78886,
@@ -29299,7 +29299,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip92444.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-92444",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":115720,
@@ -29348,7 +29348,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip116085.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-116085",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":62328,
@@ -29397,7 +29397,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip62523.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-62523",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":19028,
@@ -29446,7 +29446,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip19076.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-19076",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":89282,
@@ -29544,7 +29544,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip93858.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-93858",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":95696,
@@ -29593,7 +29593,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip95995.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-95995",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":68463,
@@ -29642,7 +29642,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip68682.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-68682",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":70732,
@@ -29691,7 +29691,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip70956.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-70956",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":64811,
@@ -29789,7 +29789,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip92311.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-92311",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":43822,
@@ -30034,7 +30034,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip111571.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-111571",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":116690,
@@ -30181,7 +30181,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip11452.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-11452",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":12620,
@@ -30279,7 +30279,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip49973.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-49973",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":70096,
@@ -30328,7 +30328,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip70319.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-70319",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":38671,
@@ -30377,7 +30377,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip38784.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-38784",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":78223,
@@ -30475,7 +30475,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip72237.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-72237",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":33190,
@@ -30524,7 +30524,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip33277.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-33277",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":82337,
@@ -30573,7 +30573,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip82588.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-82588",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":25652,
@@ -30671,7 +30671,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip67960.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-67960",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":45486,
@@ -31112,7 +31112,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip17749.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-17749",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":77565,
@@ -31161,7 +31161,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip77801.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-77801",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":84636,
@@ -31259,7 +31259,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip65877.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-65877",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":62014,
@@ -31308,7 +31308,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip62207.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-62207",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":43602,
@@ -31357,7 +31357,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip43726.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-43726",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":96788,
@@ -31406,7 +31406,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip97096.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-97096",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":33963,
@@ -31455,7 +31455,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip34052.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-34052",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":15760,
@@ -31504,7 +31504,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip15799.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-15799",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":69304,
@@ -31602,7 +31602,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip7978.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-7978",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":76593,
@@ -31749,7 +31749,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip57507.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-57507",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":1291,
@@ -31798,7 +31798,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip1292.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-1292",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":80400,
@@ -31847,7 +31847,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip80644.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-80644",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":117844,
@@ -31896,7 +31896,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip118212.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-118212",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":88419,
@@ -31945,7 +31945,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip88694.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-88694",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":64587,
@@ -32043,7 +32043,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip100017.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-100017",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":79009,
@@ -32092,7 +32092,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip79248.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-79248",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":103904,
@@ -32239,7 +32239,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip89042.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-89042",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":17609,
@@ -32484,7 +32484,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip74537.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-74537",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":103061,
@@ -32533,7 +32533,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip103393.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-103393",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":54957,
@@ -32582,7 +32582,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip55119.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-55119",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":17372,
@@ -32680,7 +32680,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip98959.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-98959",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":55679,
@@ -32729,7 +32729,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip55846.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-55846",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":22398,
@@ -32827,7 +32827,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip18450.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-18450",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":98504,
@@ -32876,7 +32876,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip98819.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-98819",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":25357,
@@ -33268,7 +33268,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip83541.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-83541",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":8989,
@@ -33317,7 +33317,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip9007.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-9007",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":73506,
@@ -33464,7 +33464,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip32439.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-32439",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":107007,
@@ -33513,7 +33513,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip107350.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-107350",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":22854,
@@ -33611,7 +33611,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip106557.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-106557",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":31080,
@@ -33660,7 +33660,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip31156.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-31156",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":51399,
@@ -33709,7 +33709,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip51547.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-51547",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":99899,
@@ -33758,7 +33758,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip100223.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-100223",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":54903,
@@ -33855,8 +33855,8 @@
     "description":"HIP54872 - Zosma belongs to the Leo constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-54872",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip54872.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-54872",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.165
   },
   {
     "id":65916,
@@ -33905,7 +33905,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip66125.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-66125",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":38313,
@@ -34052,7 +34052,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip29525.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-29525",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":55681,
@@ -34248,7 +34248,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip105312.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-105312",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":1730,
@@ -34394,8 +34394,8 @@
     "description":"HIP8903 - Sheratan belongs to the Ari constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-8903",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip8903.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-8903",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.165
   },
   {
     "id":32276,
@@ -34444,7 +34444,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip32362.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-32362",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":25220,
@@ -34493,7 +34493,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip25283.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-25283",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":64904,
@@ -34542,7 +34542,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip65109.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-65109",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":68714,
@@ -34590,8 +34590,8 @@
     "description":"HIP68933 - Menkent belongs to the Cen constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-68933",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip68933.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-68933",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":69742,
@@ -34640,7 +34640,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip69965.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-69965",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":36263,
@@ -34787,7 +34787,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip72567.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-72567",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":89239,
@@ -35130,7 +35130,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip82834.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-82834",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":71731,
@@ -35179,7 +35179,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip71957.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-71957",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":80198,
@@ -35424,7 +35424,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip54810.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-54810",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":61220,
@@ -35522,7 +35522,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip18915.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-18915",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":82765,
@@ -35620,7 +35620,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip26394.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-26394",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":33603,
@@ -35669,7 +35669,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip33690.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-33690",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":84358,
@@ -35816,7 +35816,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip60398.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-60398",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":33341,
@@ -35865,7 +35865,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip33428.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-33428",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":47977,
@@ -35963,7 +35963,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip106147.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-106147",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":90663,
@@ -36012,7 +36012,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip90945.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-90945",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":33866,
@@ -36159,7 +36159,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip38910.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-38910",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":38829,
@@ -36208,7 +36208,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip38939.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-38939",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":4002,
@@ -36306,7 +36306,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip35550.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-35550",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":89684,
@@ -36355,7 +36355,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip89962.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-89962",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":42763,
@@ -36453,7 +36453,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip32919.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-32919",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":116397,
@@ -36600,7 +36600,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip83389.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-83389",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":73558,
@@ -36649,7 +36649,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip73786.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-73786",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":90376,
@@ -36796,7 +36796,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip107522.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-107522",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":110053,
@@ -36845,7 +36845,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip110400.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-110400",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":97893,
@@ -36894,7 +36894,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip98204.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-98204",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":116279,
@@ -36943,7 +36943,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip116645.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-116645",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":54214,
@@ -37139,7 +37139,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip84277.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-84277",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":4142,
@@ -37335,7 +37335,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip25775.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-25775",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":98605,
@@ -37384,7 +37384,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip98921.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-98921",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":63739,
@@ -37433,7 +37433,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip63942.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-63942",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":46518,
@@ -37482,7 +37482,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip46651.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-46651",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":65138,
@@ -37531,7 +37531,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip65343.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-65343",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":94854,
@@ -37580,7 +37580,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip95149.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-95149",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":18813,
@@ -37629,7 +37629,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip18859.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-18859",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":40260,
@@ -37678,7 +37678,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip40375.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-40375",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":85301,
@@ -37727,7 +37727,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip85561.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-85561",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":46504,
@@ -37776,7 +37776,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip46637.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-46637",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":12676,
@@ -37874,7 +37874,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip75201.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-75201",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":71920,
@@ -38021,7 +38021,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip42267.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-42267",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":98365,
@@ -38217,7 +38217,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip116384.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-116384",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":97819,
@@ -38266,7 +38266,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip98130.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-98130",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":7221,
@@ -38462,7 +38462,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip94557.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-94557",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":76083,
@@ -38511,7 +38511,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip76315.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-76315",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":82846,
@@ -38658,7 +38658,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip34017.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-34017",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":110189,
@@ -38756,7 +38756,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip15095.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-15095",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":103724,
@@ -38805,7 +38805,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip104059.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-104059",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":116830,
@@ -38952,7 +38952,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip44897.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-44897",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":25480,
@@ -39197,7 +39197,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip29860.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-29860",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":15735,
@@ -39246,7 +39246,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip15774.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-15774",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":29727,
@@ -39442,7 +39442,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip1720.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-1720",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":23086,
@@ -39638,7 +39638,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip73457.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-73457",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":36114,
@@ -39834,7 +39834,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip86141.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-86141",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":100164,
@@ -40030,7 +40030,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip115123.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-115123",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":66941,
@@ -40128,7 +40128,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip38594.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-38594",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":8777,
@@ -40177,7 +40177,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip8796.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-8796",
     "premium":0,
-    "price":0.11
+    "price":0.115
   },
   {
     "id":27253,
@@ -40373,7 +40373,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip67620.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-67620",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":82442,
@@ -40520,7 +40520,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip34890.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-34890",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":39644,
@@ -40569,7 +40569,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip39757.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-39757",
     "premium":0,
-    "price":0.12
+    "price":0.115
   },
   {
     "id":15805,
@@ -40667,7 +40667,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip44376.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-44376",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":100599,
@@ -40716,7 +40716,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip100925.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-100925",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":84783,
@@ -40765,7 +40765,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip85042.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-85042",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":82144,
@@ -40863,7 +40863,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip111685.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-111685",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":11538,
@@ -40912,7 +40912,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip11565.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-11565",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":73768,
@@ -41059,7 +41059,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip89825.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-89825",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":45201,
@@ -41157,7 +41157,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip57959.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-57959",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":1090,
@@ -41304,7 +41304,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip90368.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-90368",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":80139,
@@ -41402,7 +41402,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip112978.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-112978",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":54069,
@@ -41451,7 +41451,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip54227.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-54227",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":4463,
@@ -41500,7 +41500,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip4473.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-4473",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":80481,
@@ -41696,7 +41696,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip1842.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-1842",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":21712,
@@ -41843,7 +41843,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip107346.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-107346",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":31512,
@@ -42039,7 +42039,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip104440.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-104440",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":59116,
@@ -42088,7 +42088,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip59296.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-59296",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":43666,
@@ -42333,7 +42333,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip113421.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-113421",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":83734,
@@ -42382,7 +42382,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip83988.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-83988",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":24723,
@@ -42431,7 +42431,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip24783.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-24783",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":70634,
@@ -42627,7 +42627,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip9044.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-9044",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":107813,
@@ -42725,7 +42725,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip84212.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-84212",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":86440,
@@ -42872,7 +42872,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip57459.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-57459",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":71629,
@@ -42921,7 +42921,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip71855.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-71855",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":94051,
@@ -43068,7 +43068,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip1068.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-1068",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":33765,
@@ -43313,7 +43313,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip113605.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-113605",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":26440,
@@ -43459,8 +43459,8 @@
     "description":"HIP9884 - Hamal belongs to the Ari constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-9884",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip9884.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-9884",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":1029,
@@ -43607,7 +43607,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip110778.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-110778",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":66043,
@@ -43656,7 +43656,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip66252.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-66252",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":83739,
@@ -43705,7 +43705,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip83996.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-83996",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":25056,
@@ -43803,7 +43803,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip7646.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-7646",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":71085,
@@ -43852,7 +43852,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip71311.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-71311",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":36336,
@@ -43901,7 +43901,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip36439.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-36439",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":50363,
@@ -43950,7 +43950,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip50505.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-50505",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":54491,
@@ -43999,7 +43999,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip54651.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-54651",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":99445,
@@ -44097,7 +44097,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip103768.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-103768",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":27734,
@@ -44146,7 +44146,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip27803.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-27803",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":113490,
@@ -44244,7 +44244,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip97223.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-97223",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":81128,
@@ -44391,7 +44391,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip45170.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-45170",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":44910,
@@ -44489,7 +44489,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip8382.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-8382",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":4835,
@@ -44587,7 +44587,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip62472.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-62472",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":19207,
@@ -44880,8 +44880,8 @@
     "description":"HIP21421 - Aldebaran belongs to the Tau constellation. For more information, visit https:\/\/explorer.openstars.org\/#view\/hip-21421",
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip21421.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-21421",
-    "premium":300,
-    "price":0.22
+    "premium":150,
+    "price":0.17
   },
   {
     "id":107368,
@@ -44930,7 +44930,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip107711.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-107711",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":19843,
@@ -45077,7 +45077,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip48411.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-48411",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":6056,
@@ -45420,7 +45420,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip114924.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-114924",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":79554,
@@ -45518,7 +45518,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip114948.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-114948",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":46211,
@@ -45567,7 +45567,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip46343.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-46343",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":95881,
@@ -45665,7 +45665,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip110649.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-110649",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":3411,
@@ -45714,7 +45714,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip3418.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-3418",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":93929,
@@ -45763,7 +45763,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip94225.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-94225",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":75489,
@@ -45861,7 +45861,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip113602.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-113602",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":40125,
@@ -45910,7 +45910,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip40239.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-40239",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":14116,
@@ -45959,7 +45959,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip14150.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-14150",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":108544,
@@ -46008,7 +46008,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip108890.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-108890",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":7325,
@@ -46057,7 +46057,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip7339.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-7339",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":83344,
@@ -46106,7 +46106,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip83601.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-83601",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":49385,
@@ -46155,7 +46155,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip49526.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-49526",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":64202,
@@ -46351,7 +46351,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip102207.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-102207",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":10168,
@@ -46547,7 +46547,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip19832.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-19832",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":36448,
@@ -46596,7 +46596,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip36551.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-36551",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":29577,
@@ -46645,7 +46645,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip29650.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-29650",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":106974,
@@ -46694,7 +46694,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip107317.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-107317",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":33981,
@@ -46841,7 +46841,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip1803.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-1803",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":69793,
@@ -47037,7 +47037,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip44072.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-44072",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":10504,
@@ -47184,7 +47184,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip114156.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-114156",
     "premium":0,
-    "price":0.09
+    "price":0.095
   },
   {
     "id":114054,
@@ -47233,7 +47233,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip114416.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-114416",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":44135,
@@ -47282,7 +47282,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip44263.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-44263",
     "premium":0,
-    "price":0.08
+    "price":0.085
   },
   {
     "id":101710,
@@ -47331,7 +47331,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip102040.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-102040",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":67594,
@@ -47576,7 +47576,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip67105.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-67105",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":102520,
@@ -47625,7 +47625,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip102851.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-102851",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":19287,
@@ -47674,7 +47674,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip19335.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-19335",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":60290,
@@ -47772,7 +47772,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip96113.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-96113",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":18279,
@@ -47919,7 +47919,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip44075.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-44075",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":111766,
@@ -47968,7 +47968,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip112120.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-112120",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":5275,
@@ -48017,7 +48017,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip5286.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-5286",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":19805,
@@ -48164,7 +48164,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip81563.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-81563",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":79366,
@@ -48213,7 +48213,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip79607.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-79607",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":96588,
@@ -48262,7 +48262,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip96895.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-96895",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":102026,
@@ -48458,7 +48458,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip115126.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-115126",
     "premium":0,
-    "price":0.11
+    "price":0.105
   },
   {
     "id":96914,
@@ -48556,7 +48556,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip102300.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-102300",
     "premium":0,
-    "price":0.09
+    "price":0.085
   },
   {
     "id":41955,
@@ -48654,7 +48654,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip4849.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-4849",
     "premium":0,
-    "price":0.1
+    "price":0.095
   },
   {
     "id":88225,
@@ -48752,7 +48752,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip65530.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-65530",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":8028,
@@ -48899,7 +48899,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip96901.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-96901",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":69449,
@@ -48948,7 +48948,7 @@
     "image":"https:\/\/raw.githubusercontent.com\/openstars-org\/stars-database\/main\/images\/hip69671.png",
     "external_url":"https:\/\/explorer.openstars.org\/#view\/hip-69671",
     "premium":0,
-    "price":0.1
+    "price":0.105
   },
   {
     "id":96986,
