@@ -55,13 +55,14 @@ def round_to_05(n):
 
 
 
-data_sorted['premium'] = np.where(data_sorted['proper'].isnull(), 0, 150)
+data_sorted['premium'] = np.where(data_sorted['proper'].isnull(), 0, 0.05)
 max_absmag = 20
 max_dist = 100
 absmag_multiplier = 10
 dist_multiplier = 2
-data_sorted['price'] = ( absmag_multiplier * (max_absmag - data_sorted['absmag']) + dist_multiplier * (max_dist - data_sorted['dist'])) + data_sorted['premium']
+data_sorted['price'] = ( absmag_multiplier * (max_absmag - data_sorted['absmag']) + dist_multiplier * (max_dist - data_sorted['dist']))
 data_sorted['price']= data_sorted['price']/3000
+data_sorted['price']= data_sorted['price'] + data_sorted['premium']
 data_sorted['price'] = data_sorted['price'].apply(round_to_05)
 
 
