@@ -116,7 +116,7 @@ for index, i in enumerate(data_sorted.index):
     data = json.load(f)
     data["attributes"] = [
       {
-        "trait_type": "Apparent Magnitude",
+        "trait_type": "Absolute Magnitude",
         "value": data["absmag"]
       },
       {
