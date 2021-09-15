@@ -31,7 +31,7 @@ data_sorted['dist'].plot()
 index_column = []
 for index in range(0,1000):
 	index_column.append(index)
-data_sorted['index'] = index_column
+data_sorted['token_id'] = index_column
 
 
 sun_temperature = 5800
@@ -41,10 +41,12 @@ data_sorted['temperature'] = 5601/((data_sorted['ci'] + 0.4)**(2/3))
 data_sorted['radius'] = (sun_temperature/data_sorted['temperature'])**2 * (2.51**(sun_abs_magnitude-data_sorted['absmag']))**(0.5)
 
 data_sorted['name'] =  np.where(data_sorted['proper'].isnull(), 'HIP' + data_sorted['hip'], 'HIP' + data_sorted['hip'] + ' - ' + data_sorted['proper'])
-data_sorted['description'] =  data_sorted['name'] + " belongs to the " + data_sorted['con'] + " constellation. For more information, visit https://explorer.openstars.org/#view/hip-" + data_sorted['hip']
+data_sorted['con_text'] =  np.where(data_sorted['con'].isnull(), data_sorted['name'], data_sorted['name'] + " belongs to the " + data_sorted['con'] + " constellation.")
+data_sorted['description'] =  data_sorted['con_text'] + " For more information, visit https://explorer.openstars.org/#view/hip-" + data_sorted['hip']
 data_sorted['image'] =  "https://raw.githubusercontent.com/openstars-org/stars-database/main/images/hip" + data_sorted['hip'] + ".png"
 data_sorted['external_url'] = "https://explorer.openstars.org/#view/hip-" + data_sorted['hip']
 
+data_sorted = data_sorted.drop('con_text', 1)
 
 def round_to(n, precision):
     correction = 0.5 if n >= 0 else -0.5
@@ -78,7 +80,7 @@ data_sorted['price'] = data_sorted['price'].apply(round_to_05)
 
 
 # Special parameters for the sun
-data_sorted['description'][0] = "Our main star."
+data_sorted['description'][0] = "Our main star. For more information, visit https://explorer.openstars.org/#view/hip-0"
 data_sorted['price'][0] = 50
 
 
@@ -103,13 +105,11 @@ data_sorted = data_sorted.drop('premium', 1)
 
 # Create each start json
 for index, i in enumerate(data_sorted.index):
-	#print(index)
-
 	data_sorted.loc[i].to_json(f'jsons/{index}.json', indent=2 )
 
 
 
-for index, i in enumerate(data_sorted.index):
+for index, i in enumerate(data_sorted.token_id):
   data = {}
   with open(f'jsons/{index}.json') as f:
     #print(f'jsons/{index}.json')
