@@ -44,7 +44,7 @@
    "description":"Our main star. For more information, visit https://explorer.openstars.org/#view/hip-0",
    "image":"https://raw.githubusercontent.com/openstars-org/stars-database/main/images/hip0.png",
    "external_url":"https://explorer.openstars.org/#view/hip-0",
-   "animation_url":"https://api.voxodeus.io/voxo/viewer/1",
+   "animation_url":"https://new-explorer.openstars.org/#render/hip-0",
    "attributes":[
       {
          "trait_type":"Absolute Magnitude",
